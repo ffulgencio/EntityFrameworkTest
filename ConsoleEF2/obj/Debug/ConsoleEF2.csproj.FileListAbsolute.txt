@@ -1,0 +1,10 @@
+c:\users\francis\documents\visual studio 2017\Projects\ConsoleEF2\ConsoleEF2\bin\Debug\ConsoleEF2.exe.config
+c:\users\francis\documents\visual studio 2017\Projects\ConsoleEF2\ConsoleEF2\bin\Debug\ConsoleEF2.exe
+c:\users\francis\documents\visual studio 2017\Projects\ConsoleEF2\ConsoleEF2\bin\Debug\ConsoleEF2.pdb
+c:\users\francis\documents\visual studio 2017\Projects\ConsoleEF2\ConsoleEF2\bin\Debug\EntityFramework.dll
+c:\users\francis\documents\visual studio 2017\Projects\ConsoleEF2\ConsoleEF2\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\francis\documents\visual studio 2017\Projects\ConsoleEF2\ConsoleEF2\bin\Debug\EntityFramework.xml
+c:\users\francis\documents\visual studio 2017\Projects\ConsoleEF2\ConsoleEF2\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\francis\documents\visual studio 2017\Projects\ConsoleEF2\ConsoleEF2\obj\Debug\ConsoleEF2.csprojResolveAssemblyReference.cache
+c:\users\francis\documents\visual studio 2017\Projects\ConsoleEF2\ConsoleEF2\obj\Debug\ConsoleEF2.exe
+c:\users\francis\documents\visual studio 2017\Projects\ConsoleEF2\ConsoleEF2\obj\Debug\ConsoleEF2.pdb
